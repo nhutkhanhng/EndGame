@@ -1,0 +1,2419 @@
+fileFormatVersion: 2
+guid: 498030534bdef3d4cba2162bd7f22ff9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ground.module.mountainForest01
+    21300002: ground.module.mountainForest02
+    21300004: ground.module.mountainForest03
+    21300006: ground.stairs01
+    21300008: ground.stairs02
+    21300010: ground.tile.regularStone01
+    21300012: ground.tile.stone.left.top
+    21300014: ground.tile.stone.right.top
+    21300016: ground.tile.grass.left
+    21300018: ground.tile.grass.mid
+    21300020: ground.tile.grass.right
+    21300022: ground.woodBox01
+    21300024: ground.woodBox02
+    21300026: ground.tile.mediumShadowStone01
+    21300028: ground.tile.stone.left.mid
+    21300030: ground.tile.stone.mid.mid
+    21300032: ground.tile.stone.right.mid
+    21300034: ground.tile.mediumShadowStone02
+    21300036: ground.tile.mediumShadowStone03
+    21300038: platform.log01
+    21300040: platform.log02
+    21300042: ground.tile.shadowStone01
+    21300044: ground.tile.stoneShadow.bot01
+    21300046: ground.tile.stoneShadow.bot02
+    21300048: ground.tile.stoneShadow.bot03
+    21300050: bridge.rope01
+    21300052: bridge.rope03
+    21300054: bridge.pole
+    21300056: bridge.rope04
+    21300058: bridge.log02
+    21300060: bridge.rope02
+    21300062: bridge.rope05
+    21300064: bridge.log01
+    21300066: bridge.log03
+    21300068: bridge.rope06
+    21300070: bridge.rope07
+    21300072: ground.tile.earthStone.left
+    21300074: ground.tile.earthStone.left.mid
+    21300076: ground.tile.earthStone.mid
+    21300078: ground.tile.earthStone.right.mid
+    21300080: ground.tile.earthStone.right
+    21300082: ground.tile.stoneShadow
+    21300084: ground.tile.stoneShadow.relight
+    21300086: ground.tile.stoneBox01
+    21300088: ground.tile.stoneBox02
+    21300090: ground.tile.regularEarth
+    21300092: ground.tile.scale01
+    21300094: ground.tile.scale.02
+    21300096: ground.tile.stoneEarth.left
+    21300098: ground.tile.stoneEarth.left.mid
+    21300100: ground.tile.stoneEarth.mid
+    21300102: ground.tile.stoneEarth.right
+    21300104: ground.tile.earth.right
+    21300106: ground.tile.platform.small
+    21300108: ground.tile.paltform.big
+    21300110: ground.module.mountain01
+    21300112: ground.module.mountain02
+    21300114: ground.module.mountain03
+    21300116: 03.ground.mountainDoor
+    21300118: 02.ground.mountainDoor
+    21300120: 01.ground.mountainDoor
+    21300122: ground.tile.interiorStone01
+    21300124: ground.module.mountain04
+    21300126: ground.module.mountain05
+    21300128: ground.module.mountain06
+    21300130: ground.tile.interiorStone02
+    21300132: ground.tile.regular.interiorStone
+    21300134: ground.tile.interiorStone03
+    21300136: ground.tile.interiorStone04
+    21300138: ground.module.mountainForest04
+    21300140: ground.module.mountainForest05
+    21300142: Ground.tile.stoneGround01
+    21300144: Ground.tile.stoneGround02
+    21300146: Atlas_ground_73
+    21300148: Ground.tile.stoneGround03
+    21300150: Ground.tile.stoneGround04
+    21300152: Ground.tile.stoneGround05
+    21300154: Ground.tile.stoneGround06
+    21300156: Ground.tile.stoneGround07
+    21300158: Ground.tile.stoneGround08
+    21300160: ground.tile.interiorStone05
+    21300162: Ground.tile.shadowStone03
+    21300164: ground.tile.regularStone03
+    21300166: ground.tile.interiorStone06
+    21300168: Ground.tile.shadowStone04
+    21300170: ground.tile.regularStone04
+    21300172: ground.tile.regularStone05
+    21300174: ground.tile.regularStone06
+    21300176: ground.tile.regularStone07
+    21300178: ground.tile.regularShadowStone01
+    21300180: ground.tile.regularShadowStone02
+    21300182: ground.tile.crack01
+    21300184: ground.tile.crack02
+    21300186: ground.tile.regularStone08
+    21300188: ground.tile.regularStone09
+    21300190: platform.log03
+    21300192: bridge.knot01
+    21300194: bridge.log04
+    21300196: bridge.knot02
+    21300198: bridge.knot03
+    21300200: bridge.knot04
+    21300202: bridge.knot05
+    21300204: bridge.rope11
+    21300206: bridge.rope09
+    21300208: bridge.rope10
+    21300210: platform.knot01
+    21300212: platform.knot02
+    21300214: platform.knot03
+    21300216: ground.tile.regularStone02
+    21300218: Ground.tile.shadowStone02
+    21300220: bridge.rope08
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ground.module.mountainForest01
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 845
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941fc239ed7fd5f48b596e874cd7cc5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.module.mountainForest02
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 845
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857ae4afde62c4843bda2f9944996496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.module.mountainForest03
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 845
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ad8ec68f16b0d4da3c2e50675524d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.stairs01
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 962
+        width: 94
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c64b6e67ebad4459772f95faf6caff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.stairs02
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 911
+        width: 118
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdf4c40c368fd3438e696689365f8f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.regularStone01
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 771
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa154e1033e68348942ad38ebed711b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.stone.left.top
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 773
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87282833dd986ac4985b8c3c5bfcd922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.stone.right.top
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 772
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968e0cfd1ca4f914d9c6d12bd4410873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.grass.left
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 801
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce0b610d6d3dab4292125b604b8a3ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.grass.mid
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 801
+        width: 60
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd50aa3bc921f64f992a2a1ab905e58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.grass.right
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 803
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc70ef8e24e08144aca38c70e1a1fe8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.woodBox01
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 795
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd5ae4522f3fb241a4c663e17ab3475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.woodBox02
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 795
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13556a4a14a6bff42af8443145c2b57f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.mediumShadowStone01
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 700
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fe12bb01e32c94594df20ff4e7367d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.stone.left.mid
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 707
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debd2beb39c01324981def2c58b0938f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.stone.mid.mid
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 707
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea302d1dc00668547b4d5e36383cf4b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.stone.right.mid
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 715
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588a51eb0494ec94ebdc3e9e9f470746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.mediumShadowStone02
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 726
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a3315790e44444d8efbdc9c9a45f94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.mediumShadowStone03
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 725
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adc99ddf138b104386354c57790dbc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform.log01
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 702
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310ac5f561318854586a82ecf27ef44a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform.log02
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 702
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee1a5cca8e059941a95d3af9bfb4e65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.shadowStone01
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 637
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764fb4ba795a75c44a56caba297084fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.stoneShadow.bot01
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 632
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b591083718ff241b8045dd6285c0f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.stoneShadow.bot02
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 631
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0070a60f1e7204ca0f7323e33d8a10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.stoneShadow.bot03
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 613
+        width: 127
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cf063183bcdce44b77cbbecc2582ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge.rope01
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 672
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efdf2b8e29bbc448ac6f9da6899118d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge.rope03
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 679
+        width: 25
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fecab8d18413f4488be00837f55ffb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge.pole
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 650
+        width: 3
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ab9762934741f49bb4debe1ba569a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge.rope04
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 673
+        width: 25
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c82fa23c4b44b4dbda08f9245dbd11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge.log02
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 655
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed22752a56701645a6b552bd41644e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge.rope02
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 651
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff83300f13ca6a644b6f22ef2f360ecf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge.rope05
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 665
+        width: 24
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15e0a1a4ad86d14bbb79972dbfd019d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge.log01
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 655
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30479707827126c4483d3fe1a47d655c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge.log03
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 655
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577bc9e1cbeee3347b57e7fc68ee5adc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge.rope06
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 657
+        width: 24
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fdf0590147020478295b27c28a6f21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge.rope07
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 651
+        width: 23
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8145e08d050b5c04f9c658eed7ff0a24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.earthStone.left
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 536
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13eb5f93a91826479520867bd09aa91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.earthStone.left.mid
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 536
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02147430c21c67044b85261054f9c5a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.earthStone.mid
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 536
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14446aab6c38a44aae1605f472c63c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.earthStone.right.mid
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 536
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91663414802f3b840b8396a45b54f0a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.earthStone.right
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 536
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e0e62058da2aa41824f33b2a235abf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.stoneShadow
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 583
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4178d0ebb220443b27ec1aa8e70df0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.stoneShadow.relight
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 583
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0573846051841b749bb23a815d363abb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.stoneBox01
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 588
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0c6847ec712fa43823e07500375cf3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.stoneBox02
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 588
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57081a2967080244cb0b5959220ab8d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.regularEarth
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 512
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4219ed61761b0248832a2844f68b4f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.scale01
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 562
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc500f1500c1e8459a03aef74dd9132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.scale.02
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 562
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5f92c43cada44479928d20b30b7d27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.stoneEarth.left
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 473
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda45363de67a2d4ba077689f94e545a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.stoneEarth.left.mid
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 454
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0400744031a57ce498824c701c1ea418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.stoneEarth.mid
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 454
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d20624dfc1ceaf4395399a5d38dbebe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.stoneEarth.right
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 454
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2115b9dda54bb40bc450b0311d2b6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.earth.right
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 500
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b06380bbc80ffd4e91d634ce975aa9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.platform.small
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 461
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd57c712200f944d91712f7d55b0ad8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.paltform.big
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 461
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92648dc5ab430914eb5ff638ce7f5948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.module.mountain01
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 316
+        width: 110
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b347847d31dfefe4bac5eea9de690d7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.module.mountain02
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 315
+        width: 110
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc42d1b0e6493f045be7e5e48fec941f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.module.mountain03
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 315
+        width: 110
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47f327b4aa4ca34b9ded8c03a886aaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03.ground.mountainDoor
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 365
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013cc18698f8ca7439ce62d6b958be8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.ground.mountainDoor
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 367
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59fa1fdcacce1b43971ef9271eb7f38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.ground.mountainDoor
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 367
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01185883554aee44b9408543b05acec6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.interiorStone01
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 316
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6cc05a08e851848b6a842a87a76f51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.module.mountain04
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 168
+        width: 110
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fedb61cb06f144381011be4288b31f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.module.mountain05
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 168
+        width: 110
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86713cf7b0b097443914a681a764c78c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.module.mountain06
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 168
+        width: 110
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedf7a98911b1574f864de937246c1c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.interiorStone02
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 242
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff327b8f8f9762489d392498789d75a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.regular.interiorStone
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 235
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922a3214330848f41b928b712ffe2de1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.interiorStone03
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 174
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b39ca7c02a1ff04baaffbdf42d8093e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.interiorStone04
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 165
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba04ae42fb436340bec6f463f9f81cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.module.mountainForest04
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bb451395b64244091815c98c4e9486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.module.mountainForest05
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 3
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfeaaba6734b1ba4da356e27973afbce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground.tile.stoneGround01
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 153
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb208dc2985b0a4cbdbd14b1cb745e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground.tile.stoneGround02
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 153
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fc044de5ca3bd4ca76f1e07ab0794b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_ground_73
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 153
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afce3fa01fadf447949c9e525f69575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground.tile.stoneGround03
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 153
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab8f3658163803499cd2a71ba04205c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground.tile.stoneGround04
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 153
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cc5743336d81840a0e8d09e2232c94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground.tile.stoneGround05
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 153
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931941f55e272b542a25b814e0faec9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground.tile.stoneGround06
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 153
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609fd37998be720498e563047a03b459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground.tile.stoneGround07
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 153
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599b984755563cd4e99f4c34ed32c803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground.tile.stoneGround08
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 153
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed3669905a08ae4694e798ed7c174ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.interiorStone05
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 14
+        width: 99
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d0f7769c455d24281c17265ea61a5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground.tile.shadowStone03
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 133
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc71da9915d0e4c43935d490537ee264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.regularStone03
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 133
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b21ed8cfa537946867638a7aefbf82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.interiorStone06
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 5
+        width: 67
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7732c3e2a03c7c498b6d2d0ab477711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground.tile.shadowStone04
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 105
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8357bf8b22430b5438b129440c661f34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.regularStone04
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 105
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adac82dfbd72450439e2b2c9efa461ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.regularStone05
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 75
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f01dc38186284949966b843152d0235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.regularStone06
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 88
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f8727c060b29e4fa422c1323e5b623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.regularStone07
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 62
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b304a93578eee42984df99648c9533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.regularShadowStone01
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 57
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a009715669fc641b4fc21a23d35aa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.regularShadowStone02
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 35
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7efad5c3b3e1d47b732ab3fc68595c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.crack01
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 36
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ff4f279c3db6347a4abee0b925fcdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.crack02
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 16
+        width: 4
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f481dc0ace1b1498a85821ac970a07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.regularStone08
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 14
+        width: 4
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fa2da2b22073a4392cb4bc71c6bc99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.regularStone09
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 34
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e264678dd77bc414687ddc1f3cc9139b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform.log03
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 694
+        width: 39
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6546b83e8cd43814ea964d3f4240a5a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge.knot01
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 672
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a498dcb4015d7b944b0e29fb06af8e16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge.log04
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 655
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955b64d777f87d24e927a9e0b95f0aea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge.knot02
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 672
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e0782f1be0a4b44bd1091911eed5f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge.knot03
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 672
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b80ec390b97954398b7b6e553e6ecc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge.knot04
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 673
+        width: 3
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f444de1848c97ae44bc3e940d4fddfb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge.knot05
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 674
+        width: 3
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c9f82313a9e004d83efda774284d4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge.rope11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 656
+        width: 1
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736b533fb8c154447adbe1a6a63d20a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge.rope09
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 643
+        width: 3
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03067dd861a93f446be19b3f6319c850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge.rope10
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 643
+        width: 2
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0f485f49144404b987e475c8cc3c61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform.knot01
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 636
+        width: 2
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081a2319c226dbe49a89f1e92cef0f95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform.knot02
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 631
+        width: 3
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd2d164a6b80d64faf9d8ea97ff6335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform.knot03
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 639
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fa34267877d6e40bcf3dee6dadaea4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground.tile.regularStone02
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 145
+        width: 2
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59d3e9273b6813409065d0abb2039a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground.tile.shadowStone02
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 145
+        width: 2
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfc14ee60f72594b85d7849f1e69852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge.rope08
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 643
+        width: 23
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60450dc74e9a478478c2ec62e043ab3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
