@@ -14,11 +14,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/2DGamekit/Scenes/Zone3-1.unity
     guid: 5436c67e9267f17458b31fcdc20cd20a
-  - enabled: 0
+  - enabled: 1
     path: Assets/2DGamekit/Scenes/Zone3.unity
     guid: 4b4b0e246fc7dbb4295a38fd03241362
-  - enabled: 0
-    path: Assets/2DGamekit/Scenes/Zone4.unity
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/Zone3-5.unity
     guid: 5b0c2d9ddd151ba489db19a4fb634327
   - enabled: 1
     path: Assets/2DGamekit/Scenes/Zone5.unity
@@ -53,3 +53,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/2DGamekit/Scenes/Zone4-3.unity
     guid: d807039abcc1ecd40ac028a63fd33d62
+  m_configObjects: {}
